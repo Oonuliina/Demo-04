@@ -1,1 +1,17 @@
+body {
+    background-color: paleturquoise; color: purple;
+    padding: 10px 20px;
+}
+h1 {
+    border-style: dotted; 
+    border-color: red;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+}
 
+p {
+    background-color: yellowgreen; color: darkmagenta;
+    border-radius: 20px;
+    width: fit-content;
+}    
